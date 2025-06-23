@@ -12,7 +12,3 @@ This repo aims to document as much of the Exynos USBDL (Formally called EDL by S
 ## Protocol
 
 - [Protocol and Return Codes](Protocol/Protocol.md)
-
-## SoC Specifics
-
-- [SoC Specifics](SoC%20Specifics/USBDL%20Stuff.md)
