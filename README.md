@@ -1,6 +1,6 @@
 # Exynos USBDL Documentation
 
-This repo aims to document as much of the Exynos USBDL (Formally called EDL by Samsung, in the download mode).
+This repo aims to document as much of the Exynos USBDL (Formally called EDL by Samsung, in ODIN mode).
 
 **AS OF RIGHT NOW THIS REPO MAY BE INCOMPLETE**
 
